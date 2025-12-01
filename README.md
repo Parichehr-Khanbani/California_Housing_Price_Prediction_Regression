@@ -1,5 +1,9 @@
 # California_Housing_Price_Prediction_Regression
 ***An end-to-end regression project featuring thorough EDA, data preprocessing, outlier analysis, and model development using linear and non-linear techniques.***
+<p align="center">
+  <img src="https://github.com/Parichehr-Khanbani/California_Housing_Price_Prediction_Regression/blob/main/assets/CALIFORNIA%20HOUSING.png" alt="California Housing Banner" width="100%">
+</p>
+
 
 This project develops and evaluates regression models for predicting California housing prices using the California Housing dataset. The workflow includes extensive exploratory data analysis (EDA), outlier detection,preprocessing, and model experimentation with linear, SGD-based, and polynomial regression methods.
 
